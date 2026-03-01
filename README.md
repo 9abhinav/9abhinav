@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Spring Boot, REST APIs, Authentication, Machine Learning, DSA**
 
-- 📫 How to reach me **📧 abhinav.dewangan.dev@gmail.com**
+- 📫 How to reach me **📧 abhinavdewangan64@gmail**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1C3-MusXdImeKtC5_bXRlH5pcFS8OhQzA/view?usp=sharing](https://drive.google.com/file/d/1C3-MusXdImeKtC5_bXRlH5pcFS8OhQzA/view?usp=sharing)
 
