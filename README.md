@@ -1,28 +1,186 @@
-<h1 align="center">Hi 👋, I'm Abhinav Dewangan</h1>
-<h3 align="center">🚀 Full Stack Developer | React • Spring Boot • ML Enthusiast</h3>
+# <h1 align="center">Hi 👋, I'm Abhinav Dewangan</h1>
 
-- 🔭 I’m currently working on **AI-Powered Fitness Project**
+<h3 align="center">🚀 Full Stack Developer | React • Spring Boot • AI/ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **AI Model Optimization • System Design • WebRTC**
-
-- 👯 I’m looking to collaborate on **Full Stack Web Applications • AI/ML based real-world|projects • Open Source contributions**
-
-- 🤝 I’m looking for help with **Scaling microservices architecture • Advanced DevOps & cloud deployments**
-
-- 💬 Ask me about **React, Spring Boot, REST APIs, Authentication, Machine Learning, DSA**
-
-- 📫 How to reach me **📧 abhinavdewangan64@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C3-MusXdImeKtC5_bXRlH5pcFS8OhQzA/view?usp=sharing](https://drive.google.com/file/d/1C3-MusXdImeKtC5_bXRlH5pcFS8OhQzA/view?usp=sharing)
-
-- ⚡ Fun fact **I debug faster after midnight 🌙**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhinav-dewangan-bb5626284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinav-dewangan-bb5626284" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kl_2300030815" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kl_2300030815" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhinav_5696/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhinav_5696/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Spring+Boot+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 🚀 About Me
+
+* 🔭 Currently working on **AI-Powered Fitness Project**
+* 🌱 Learning **AI Model Optimization • System Design • WebRTC**
+* 👯 Looking to collaborate on **Full Stack Web Applications • AI/ML Projects • Open Source**
+* 🤝 Exploring **Microservices Architecture • Advanced DevOps • Cloud Deployments**
+* 💬 Ask me about **React, Spring Boot, REST APIs, Authentication, Machine Learning, DSA**
+* 📫 Reach me at **[abhinavdewangan64@gmail.com](mailto:abhinavdewangan64@gmail.com)**
+* 📄 Resume: **[View Resume](https://drive.google.com/file/d/1C3-MusXdImeKtC5_bXRlH5pcFS8OhQzA/view?usp=sharing)**
+* ⚡ Fun Fact: **I debug faster after midnight 🌙**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abhinav-dewangan-bb5626284">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhinavdewangan64@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/abhinav_5696/">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=FFA116"/>
+</a>
+
+<a href="https://www.codechef.com/users/kl_2300030815">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🏗️ Current Focus
+
+### 🏋️ AI-Powered Fitness Project
+
+* AI-based workout recommendations
+* Personalized fitness plans
+* Progress tracking
+* Real-time analytics
+* Machine Learning integration
+* Performance monitoring
+
+---
+
+## 📚 Currently Learning
+
+* AI Model Optimization
+* System Design
+* WebRTC
+* Cloud Computing
+* DevOps & CI/CD
+* Microservices Architecture
+
+---
+
+## 🤝 Looking To Collaborate On
+
+* Full Stack Applications
+* AI & Machine Learning Projects
+* Open Source Contributions
+* React Ecosystem Projects
+* Spring Boot Applications
+* Cloud-Native Solutions
+* Hackathons & Team Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vue" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### 📊 Data Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+
+
+
+
+
+
+## 🚀 Featured Projects
+
+### 🏋️ AI-Powered Fitness Project
+
+* AI-driven workout recommendations
+* Personalized fitness plans
+* Real-time analytics dashboard
+* Machine Learning integration
+* User progress tracking
+
+### 🌐 Full Stack Applications
+
+* React + Spring Boot Architecture
+* RESTful APIs
+* Authentication & Authorization
+* Database Optimization
+* Responsive UI Design
+
+### 🤖 AI / ML Projects
+
+* Machine Learning Models
+* Data Analytics
+* Model Optimization
+* Real-world AI Solutions
+
+---
+
+
+
+
+
+## 💡 Quote Of The Day
+
+<p align="center">
+
+> "Consistency beats intensity when intensity isn't consistent."
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving a star to my repositories ⭐
+</h3>
